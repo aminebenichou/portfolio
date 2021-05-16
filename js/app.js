@@ -1,4 +1,4 @@
-var text  = [ "game", "mobile", "web",];
+var text  = [ "Game", "Mobile", "Web",];
 var index = 0;
 
 $("#changing-text").fadeTo( 1, 0 );

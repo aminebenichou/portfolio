@@ -102,6 +102,9 @@ td{
   *{
     max-width: 90%;
   }
+  .container{
+    
+  }
   .section{
     height: 150vh;
   }
@@ -122,6 +125,9 @@ td{
     height: 150vh;
   }
   .contact{
+    width: 100%;
+  }
+  .card-body{
     width: 100%;
   }
 }
